@@ -10,7 +10,7 @@ JAVA algorithm study
   
 2. Github를 통한 코드 공유 및 피드백
     * [Feature Branch Workflow](https://gmlwjd9405.github.io/2017/10/27/how-to-collaborate-on-GitHub-1.html) 방식을 이용한다
-    * 
+  
 * 개인이 할 일 (시험 실전 대비를 위해 시간 정해두고 문제풀기(최대 2시간))
     * 이론 정리
         * 동작 방식 / 시간 복잡도 / 장단점 / 비슷한 알고리즘 유형 / 대표적인 문제 소개 
