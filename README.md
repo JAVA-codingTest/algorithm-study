@@ -1,5 +1,5 @@
 # algorithm-study
-JAVA algorithm study 
+algorithm study 
 ## 알고리즘 공부법
 * [박트리님의 공부법](https://baactree.tistory.com/52)
 
